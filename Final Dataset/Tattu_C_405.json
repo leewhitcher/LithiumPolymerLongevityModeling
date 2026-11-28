@@ -1,0 +1,19 @@
+{
+  "cycle_id": "Tattu_C_405",
+  "main_dat_found": true,
+  "discharge_date": "10/3/2024",
+  "discharge_start_time": "10:47:31 AM",
+  "discharge_length": 579.526000,
+  "start_sustain_ok": false,
+  "start_extra_spike_count": 0,
+  "end_sustain_ok": true,
+  "end_extra_spike_count": 0,
+  "Ah_Final": 5.465638,
+  "Wh_Final": 121.817082,
+  "initial_temperature": 72.092078,
+  "cba_date": "10/03/24",
+  "cba_time": "10:47:56",
+  "cba_test_total_time_s": 580.000000,
+  "cba_tested_capacity_ah": 5.440000,
+  "SOH": 0.932388
+}

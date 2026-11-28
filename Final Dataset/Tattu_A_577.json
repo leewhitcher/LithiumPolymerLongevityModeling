@@ -1,0 +1,19 @@
+{
+  "cycle_id": "Tattu_A_577",
+  "main_dat_found": true,
+  "discharge_date": "12/3/2024",
+  "discharge_start_time": "11:51:48 AM",
+  "discharge_length": 447.630000,
+  "start_sustain_ok": false,
+  "start_extra_spike_count": 0,
+  "end_sustain_ok": true,
+  "end_extra_spike_count": 0,
+  "Ah_Final": 4.186060,
+  "Wh_Final": 94.156054,
+  "initial_temperature": 77.111720,
+  "cba_date": "12/03/24",
+  "cba_time": "11:51:48",
+  "cba_test_total_time_s": 448.000000,
+  "cba_tested_capacity_ah": 4.160000,
+  "SOH": 0.725700
+}

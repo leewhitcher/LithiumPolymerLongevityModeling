@@ -1,0 +1,20 @@
+{
+  "cycle_id": "Tattu_B_86",
+  "main_dat_found": true,
+  "discharge_date": "2/27/2024",
+  "discharge_start_time": "1:15:07 PM",
+  "discharge_length": 609.218000,
+  "start_sustain_ok": false,
+  "start_extra_spike_count": 0,
+  "end_sustain_ok": true,
+  "end_extra_spike_count": 0,
+  "post_discharge_ocv": 21.880248,
+  "post_discharge_loaded_v": 21.783873,
+  "post_discharge_loaded_i": 5.610034,
+  "post_discharge_internal_resisitance": 0.017179,
+  "post_discharge_avg_temp": 125.352619,
+  "Ah_Final": 5.769293,
+  "Wh_Final": 128.590175,
+  "initial_temperature": 71.728442,
+  "SOH": 0.986589
+}

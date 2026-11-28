@@ -1,0 +1,15 @@
+{
+  "cycle_id": "Tatttu_A_20",
+  "main_dat_found": true,
+  "discharge_date": "11/3/2023",
+  "discharge_start_time": "9:50:18 AM",
+  "discharge_length": 612.440000,
+  "start_sustain_ok": false,
+  "start_extra_spike_count": 1,
+  "end_sustain_ok": true,
+  "end_extra_spike_count": 0,
+  "Ah_Final": 5.787082,
+  "Wh_Final": 128.941763,
+  "initial_temperature": 68.418137,
+  "SOH": 1.000000
+}
